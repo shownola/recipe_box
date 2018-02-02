@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Recipe App built with:
+- Rails 5
+- Haml
+- Nested Forms
+- Cocoom Gem
+- Devise for Users
+- Simple_Forms
+- Paperclip for Image Uploads
+- 
 
-Things you may want to cover:
+Todo:
+- Config for Deployment
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
 
 * ...
