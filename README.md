@@ -12,6 +12,8 @@ Recipe App built with:
 
 Todo:
 - Config for Deployment
+- Implement s3 storage
+- style notifications
 
 
 * ...
